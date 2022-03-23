@@ -1,5 +1,5 @@
 {
-  "name": "otakunepal-api",
+  "name": "backend-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,9 +23,9 @@
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "swagger-ui-express": "^4.1.2",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.4"
+    "nodemon": "^2.0.15"
   }
 }
